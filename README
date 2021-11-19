@@ -1,4 +1,3 @@
-Extract all contents to the root of your home folder.
 -----------------------------------------------------
 The commands are as follows
 gui-apt
@@ -6,3 +5,4 @@ gui-curl
 gui-wget
 -----------------------------------------------------
 I shall add more in the future
+-----------------------------------------------------
